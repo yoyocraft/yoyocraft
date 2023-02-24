@@ -1,6 +1,6 @@
 ## Hi Welcome to my Github 👋
 
-### 小镇程序员，激流勇进，逆流而上
+### 一个努力学习Code的憨憨，激流勇进，逆流而上
 
 ### 个人博客地址：codejuzi.icu
 
@@ -9,7 +9,8 @@
 
 ### Github提交次数<br/>
 #### 流水不争先，争的是滔滔不绝<br/>
-![GithubStats](https://github-readme-stats.vercel.app/api?username=cool-icu0&show_icons=true&theme=dark&count_private=true)
+![GithubStats](https://github-readme-stats.vercel.app/api?username=dingxinliang88&show_icons=true&theme=dark&count_private=true)
 <!-- github使用语言 -->
-<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cool-icu0&theme=dark&layout=compact) -->
-### 下一站：搞事搞事还是搞事
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dingxinliang88&theme=dark&layout=compact)
+
+### 下一件事：搞事搞事还是搞事
