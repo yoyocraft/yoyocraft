@@ -8,7 +8,7 @@
 - 163mail: d174153092@163.com
 - QQ: 1741530592
 
-![code_bear](http://figure.codejuzi.icu/img/code_bear.jpg)
+![hello](https://raw.githubusercontent.com/dingxinliang88/figure/master/img/hello.png)
 <br/>
 
 ### ✅GitHub Commit
