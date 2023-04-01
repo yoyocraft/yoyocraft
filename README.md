@@ -1,16 +1,20 @@
 ## Hi Welcome to Visit My Github 👋
 
-### 一个努力学习Code的憨憨，激流勇进，逆流而上
+### 一个努力学习Code的憨憨
 
-### 个人博客：codejuzi.icu
+## Link
+- [个人博客](codejuzi.icu)
+- Gmail: dingxinliang1118@gmail.com
+- 163mail: d174153092@163.com
+- QQ: 1741530592
 
-![image](https://user-images.githubusercontent.com/84832795/212478754-bb2b6468-c2ef-486b-ae8b-a79a0faf715d.png)
+![code_bear](http://figure.codejuzi.icu/img/code_bear.jpg)
 <br/>
 
-### Github提交次数<br/>
-#### 流水不争先，争的是滔滔不绝<br/>
+### ✅GitHub Commit
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=dingxinliang88&show_icons=true&theme=dark&count_private=true)
 <!-- github使用语言 -->
-<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dingxinliang88&theme=dark&layout=compact) -->
+### ☕️ Code Language
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dingxinliang88&theme=dark&layout=compact)
 
-### 下一件事：搞事搞事还是搞事
+### 下一件事：搞事搞事还是搞事，整活整活继续整活
