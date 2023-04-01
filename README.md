@@ -9,12 +9,9 @@
 - QQ: 1741530592
 
 ![hello](https://raw.githubusercontent.com/dingxinliang88/figure/master/img/hello.png)
-<br/>
 
-### ✅GitHub Commit
+### ✅GitHub Commit && ☕️ Code Language
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=dingxinliang88&show_icons=true&theme=dark&count_private=true)
-<!-- github使用语言 -->
-### ☕️ Code Language
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dingxinliang88&theme=dark&layout=compact)
 
 ### 下一件事：搞事搞事还是搞事，整活整活继续整活
