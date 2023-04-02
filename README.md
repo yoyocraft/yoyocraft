@@ -8,7 +8,7 @@
 - 163mail: d174153092@163.com
 - QQ: 1741530592
 <!--图片-->
-![hello](https://raw.githubusercontent.com/dingxinliang88/figure/master/img/hello.png)
+![hello](https://raw.githubusercontent.com/dingxinliang88/figure/master/img/hello_github.png)
 <!--Commit && Language-->
 ### ✅GitHub Commit && ☕️ Code Language
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=dingxinliang88&show_icons=true&theme=dark&count_private=true)
