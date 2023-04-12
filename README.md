@@ -3,7 +3,7 @@
 ### 一个努力学习Code的憨憨
 
 ## 🔗Link
-- [个人博客](codejuzi.icuhttps://juejin.cn/user/3039522704602573)
+- [个人博客](https://juejin.cn/user/3039522704602573)
 - Gmail: dingxinliang1118@gmail.com
 - 163mail: d174153092@163.com
 - QQ: 1741530592
