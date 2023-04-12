@@ -13,6 +13,6 @@
 <!--Commit && Language-->
 ### ✅GitHub Commit && ☕️ Code Language
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=dingxinliang88&show_icons=true&theme=dark&count_private=true)
-
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dingxinliang88&theme=dark&layout=compact)
 
 ### 下一件事：搞事搞事还是搞事，整活整活继续整活
