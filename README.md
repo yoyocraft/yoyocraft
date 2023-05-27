@@ -14,4 +14,4 @@
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=dingxinliang88&show_icons=true&theme=dark&count_private=true)
 ![My_Most_Used_Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dingxinliang88&theme=dark&&layout=compact&&hide=html,css)
 
-### 下一件事：静 ＆ 想 ＆ 做 ＆ 记 ＆ 研
+### 下一件事：静 ＆ 想 ＆ 做 ＆ 记 ＆ 研 & 搞事
