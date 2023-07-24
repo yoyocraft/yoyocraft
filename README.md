@@ -15,3 +15,5 @@
 ![My_Most_Used_Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dingxinliang88&theme=dark&&layout=compact&&hide=html,css)
 
 ### 下一件事：静 ＆ 想 ＆ 做 ＆ 记 ＆ 研 & 搞事
+
+![Dark](https://raw.githubusercontent.com/dingxinliang88/dingxinliang88/output/github-contribution-grid-snake-dark.svg)
