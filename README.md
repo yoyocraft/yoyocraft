@@ -1,18 +1,20 @@
-# Hi Welcome to Visit My Github 👋
+### Hi Welcome to Visit My Github 👋, I'm CodeJuzi(dingxinliang88) 🍊
 
-## 一个努力学习Code的憨憨
 
-## 🔗Link
-- [个人博客](https://www.codejuzi.icu)
-- Gmail: dingxinliang1118@gmail.com
-- 163: codejuzi@163.com
-- QQ: 1741530592
 
-<!--Commit && Language-->
+- 🇨🇳 Chinese
+- 🧑🏻‍💻 &nbsp;Programmer
+- ⚡  Java, Python, C ...
+- :computer: https://www.codejuzi.icu
+- ......(on building)
 
-## ✅GitHub Commit
-![GithubStats](https://github-readme-stats.vercel.app/api?username=dingxinliang88&show_icons=true&theme=dark&count_private=true)
+<img align="left" height="137px" src="https://github-readme-stats.vercel.app/api?username=dingxinliang88&count_private=true&hide&hide_title=true&hide_border=true&show_icons=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
 
-## ☕️ Code Language
 
-![My_Most_Used_Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dingxinliang88&theme=dark&&layout=compact&&hide=html,css)
+
+<div align="right">
+<img src=assets/angry.gif/>
+</div>
+
+
+
