@@ -7,9 +7,10 @@
 - 🇨🇳 Chinese
 - 🧑‍🎓Hohai University
 - 🧑🏻‍💻Programmer
-- ⚡  Java, Python, C ...
+- ⚡  Java, Python, JavaScript, C ...
 - :computer: [Blog Site](https://www.codejuzi.icu)
 - 📌 Motto(座右铭)：志于道，据于德，依于仁，**游于艺**
+- 📜 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff) ![Jetbrains Toolbox](https://img.shields.io/badge/Jetbrains-Toolbox-007ACC?style=flat-square&logo=intellij-idea&logoColor=ffffff)
 - 💪 Just Try It!
 - ......(on building)
 
