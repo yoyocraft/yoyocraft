@@ -5,7 +5,6 @@
 **Personal Tags**
 
 - 🇨🇳 Chinese
-- 🧑‍🎓Hohai University
 - 🧑🏻‍💻Programmer
 - ⚡  Java, Python, JavaScript, C ...
 - :computer: [Blog Site](https://www.codejuzi.icu)
