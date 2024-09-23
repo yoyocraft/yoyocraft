@@ -5,9 +5,10 @@
 **Personal Tags**
 
 - 🇨🇳 Chinese
-- 🧑🏻‍💻Programmer
-- ⚡  Java, Python, JavaScript, C ...
-- :computer: [Blog Site](https://www.codejuzi.icu)
+- 🧑🏻‍💻 Programmer
+- ⚡ Java, Python, JavaScript, C, Vue, React, ...
+- 💻 [Blog Site](https://codejuzi.icu)
+- 📺 [BiliBili](https://space.bilibili.com/266690556) 
 - 📜 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff) ![Jetbrains Toolbox](https://img.shields.io/badge/Jetbrains-Toolbox-007ACC?style=flat-square&logo=intellij-idea&logoColor=ffffff)
 - 💪 Just Try It!
 - ......(on building)
