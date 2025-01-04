@@ -1,24 +1,20 @@
-### Hi Welcome to Visit My Github 👋, I'm YouYi.
+# Hi there, I'm YouYi 👋 
 
+Welcome to my GitHub! I'm a passionate programmer who loves learning, coding, and sharing ideas with the world.
 
+---
 
-**Personal Tags**
+### 🧑🏻‍💻 **About Me**
 
-- 🇨🇳 Chinese
-- 🧑🏻‍💻 Programmer
-- ⚡ Java, Python, JavaScript, C, Vue, React, ...
-- 💻 [Blog Site](https://codejuzi.icu)
-- 📺 [BiliBili](https://space.bilibili.com/266690556) 
-- 📜 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff) ![Jetbrains Toolbox](https://img.shields.io/badge/Jetbrains-Toolbox-007ACC?style=flat-square&logo=intellij-idea&logoColor=ffffff)
-- 💪 Just Try It!
-- ......(on building)
+- 🇨🇳 **Chinese Developer**  
+- 💻 **Tech Enthusiast:** Java, Python, JavaScript, C, Vue, React, and more  
+- 📺 **Content Creator:** [BiliBili Channel](https://space.bilibili.com/266690556) 
+- 💡 **Philosophy:** *"Just Try It!"*  
+- 🌱 Currently building... *(Stay tuned!)*  
 
-<!-- <img align="left" height="137px" src="https://github-readme-stats.vercel.app/api?username=yoyocraft&count_private=true&hide&hide_title=true&hide_border=true&show_icons=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /> -->
-
-
+> If you has any questions you'd like to ask, feel free to contact me [bilibili](https://space.bilibili.com/266690556) 
+---
 
 <div align="right">
-<img src=assets/angry.gif/>
+  <img src="assets/angry.gif" alt="angry gif" />
 </div>
-
-
